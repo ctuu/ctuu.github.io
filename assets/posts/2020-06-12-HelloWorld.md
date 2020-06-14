@@ -39,10 +39,10 @@ Content in the first column | Content in the second column
 - [X] this is a complete item
 - [ ] this is an incomplete item
 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+1. Item 1
+2. Item 2
+   1. Item 2a
+   2. Item 2b
 
 - Dashes work just as well
 - And if you have sub points, put two spaces before the dash or star:
